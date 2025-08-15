@@ -36,6 +36,10 @@ PS：本project是在VScode编辑器上开发的，如果你也有VScode，可�
 
 这一部分可以观察文件 `./extentation_att.c`。由于任务是验证，所以你可以通过结合代码和讲解一并理解。后续我会对攻击原理以及实现过程做详细阐述。
 
+### Merkle树验证
+
+由于工业界的Merkle树有些复杂，我没有时间实现一个完整的工业化的Merkle树了，所以实现了一个演示性的代码。有关Merkle树的实现在路径 `./Merkle_Tree`下，你可以查看这个链接：[Merkle_Tree\README.md](Merkle_Tree\README.md)
+
 ## 源码介绍
 
 所有的实现均基于SM3国密手册进行：[302a3ada057c4a73830536d03e683110.pdf (oscca.gov.cn)](https://oscca.gov.cn/sca/xxgk/2010-12/17/1002389/files/302a3ada057c4a73830536d03e683110.pdf)

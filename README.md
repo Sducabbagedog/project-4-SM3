@@ -38,7 +38,7 @@ PS：本project是在VScode编辑器上开发的，如果你也有VScode，可�
 
 ### Merkle树验证
 
-由于工业界的Merkle树有些复杂，我没有时间实现一个完整的工业化的Merkle树了，所以实现了一个演示性的代码。有关Merkle树的实现在路径 `./Merkle_Tree`下，你可以查看这个链接：[Merkle_Tree\README.md](.\Merkle_Tree\README.md)
+由于工业界的Merkle树有些复杂，我没有时间实现一个完整的工业化的Merkle树了，所以实现了一个演示性的代码。有关Merkle树的实现在路径 `./Merkle_Tree`下，你可以查看这个链接：[Merkle_Tree\README.md](./Merkle_Tree/README.md)
 
 ## 源码介绍
 
